@@ -29,7 +29,7 @@
   (setq i 1)
   (setq pos-list (list (vl-string-position 32 str)))  ; Initialize pos-list as a list containing the first space
   (while (< i (strlen str))
-    (if (= (substr str i 1) " ")                      ; 32 is the ASCII code for a space
+    (if (= (substr str i 1) " ")                      
         (setq pos-list (cons i pos-list)))            ; Add the index to the front of the list
     (setq i (1+ i))
   )
