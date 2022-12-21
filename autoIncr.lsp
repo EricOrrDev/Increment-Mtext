@@ -38,7 +38,7 @@
 
 ;; This is the main function to place an MText object
 ;; and increment the integer to be concatenated at the end
-(defun c:placeMText()
+(defun c:IncText()
   (setq text (retrieveText))
   (setq result (splitText text))
   (setq stringLeft (car result))
