@@ -1,6 +1,7 @@
 Auto Incrementing MText Object
 
 This Auto Incrementing MText Object is an AutoLISP program for AutoCAD that allows you to place MText objects with an automatically incremented integer at the end of the text. The integer value is based on the last MText object selected and incremented by one for each subsequent placement.
+Example: "Lot 24" -> IncText -> Select MText -> Select Insertion Point -> "Lot 25"
 Usage
 
     Load the AutoLISP program in AutoCAD.
