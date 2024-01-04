@@ -24,6 +24,6 @@ Disclaimer
 This program is provided as-is without any warranty or support. Use it at your own risk.
 Contact
 
-For questions or suggestions, please contact eric.orr.cad@gmail.com
+For questions or suggestions, please contact eric.orr.dev@gmail.com
 
-Feel free to customize the README file as needed, including adding sections for installation instructions, troubleshooting, or additional details about the program.
+
